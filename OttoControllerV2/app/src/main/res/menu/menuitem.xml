@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_setting"
+        android:icon="@drawable/baseline_settings_black_24dp"
+        android:title="Setting"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/about"
+        android:title="Setting"
+        app:showAsAction="always" />
+
+
+</menu>
